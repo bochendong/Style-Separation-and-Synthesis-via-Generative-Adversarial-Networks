@@ -20,6 +20,7 @@ Temporary Items
 .apdisk
 *.t7
 *.pyc
+.data/*
 data/*
 model_hsitory/*
 loss_landscape/data/*
